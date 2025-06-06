@@ -13,4 +13,4 @@ To release from a branch,
 * Navigate to repository Actions to check status.
 * Select Branch `main` once done iterating on the branch.
 
-Latest version: `v0.1.1`
+Latest version: `v0.2.1`
