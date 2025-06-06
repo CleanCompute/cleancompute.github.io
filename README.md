@@ -9,7 +9,7 @@
 To release from a branch,
 
 * Navigate to repository Settings.
-* Under Branch select the `v0.x.x` branch.
+* Under Pages > Branch select the `v0.x.x` branch.
 * Navigate to repository Actions to check status.
 * Select Branch `main` once done iterating on the branch.
 
